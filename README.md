@@ -1,4 +1,4 @@
-WAR OF PAPER (WoP)
+War of Paper (WoP)
 ==================
 [English]
 War of Paper is an open-source, free, and ad-free 3D game prototype built in Godot 3.5.3.
