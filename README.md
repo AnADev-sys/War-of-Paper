@@ -10,7 +10,7 @@ How to run:
 - Run the main/character scene to test current animations and controls.
 
 Looking for help with:
-- Gameplay mechanics, camera & movement, UI, performance, and bug fixes.
+- unique Gameplay mechanics, camera & movement, UI, performance, and bug fixes.
 
 ----------------------------------------
 
@@ -24,4 +24,4 @@ Como rodar:
 - Rode a cena para testar as animacoes e controles atuais.
 
 Onde quero ajuda:
-- Mecanicas de jogo, camera e movimentacao, interface, otimizacao e correcoes.
+- Mecanicas de jogabilidade unicas, camera e movimentacao, interface, otimizacao e correcoes.
